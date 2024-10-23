@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mathias </h1>
-<p>Programador full stack junior en constante evolución. Me gusta pensar que soy como un Lego digital, ensamblando bloques de código para dar vida a ideas. ¡Si buscas a alguien que convierta tu visión en realidad, estoy aquí!</p>
+<p>Adaptable junior full-stack developer always eager to learn. I enjoy the challenge of crafting custom solutions, piecing together code like a digital puzzle. Let's build something amazing together!</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
